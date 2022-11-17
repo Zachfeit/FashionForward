@@ -1,0 +1,91 @@
+body {
+    background: rgba(0, 102, 255, 0.384);
+}
+
+.image1 {
+    width: 1080px;
+    height: 38%;
+}
+
+.container1 {
+    width: 1080px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image2 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 500px;
+}
+
+.image3 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 800px;
+}
+
+.image4 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1100px;
+}
+
+.image5 {
+    width: 1080px;
+    position: absolute;
+    margin-top: 1400px;
+}
+
+.link1 {
+    width: 1080px;
+    position: absolute;
+    margin-bottom: 300px;
+}
+
+body {
+    animation: transitionIn 1.5s;
+}
+
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+    }
+}
+
+.link2 {
+        width: 1080px;
+        position: absolute;
+        margin-bottom: 300px;
+}
+
+.link3 {
+    width: 1080px;
+    position: absolute;
+    margin-bottom: 300px;
+}
+
+.link4 {
+    width: 1080px;
+    position: absolute;
+    margin-bottom: 300px;
+}
+
+p {
+    position: absolute;
+    width: 1080px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 420px;
+}
+
+
+

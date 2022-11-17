@@ -1,0 +1,142 @@
+.container1 {
+    width: 1080px;
+    height: 9500x;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.headerimg {
+    width: 1080px;
+    height: auto;
+    position:fixe;
+}
+
+body {
+    background: rgba(60, 255, 0, 0.325);
+}
+
+.image1 {
+    width: 540px;
+
+}
+
+p {
+    position: absolute;
+    width: 540px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 540px;
+    margin-top:  -1450px;
+    text-align: end;
+}
+
+.image2 {
+    position: absolute;
+    width: 455px;
+    margin-top: 160px;
+    margin-left: 85px;
+}
+
+.image3 {
+    position: absolute;
+    width: 540px;
+    margin-left: 540px;
+}
+
+p.class1 {
+    position: absolute;
+    width: 540px;
+    margin-left: 0px;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.image4 {
+    position: absolute;
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 120px;
+}
+
+.image5 {
+    position: absolute;
+    margin-left: 0px;
+    width: 540px;
+    margin-top: 850px;
+}
+
+.image6 {
+    position: absolute;
+    width: 350px;
+    margin-left: -40px;
+    margin-top: 900px;
+}
+
+.image7 {
+    position: absolute;
+    width: 320px;
+    margin-top: 890px;
+    margin-left: 300px;
+}
+
+.image8 {
+    position: absolute;
+    width: 400px;
+    margin-left: -70px;
+    margin-top: 1150px;
+}
+
+.image9 {
+    position: absolute;
+    width: 400px;
+    margin-top: 1170px;
+    margin-left: 250px;
+}
+
+.image10 {
+    position: absolute;
+    width: 540px;
+    margin-top: 850px;
+}
+
+.image11{
+    position: absolute;
+    width: 540px;
+    margin-top: 900px;
+}
+
+.image12 {
+    position: absolute;
+    width: 540px;
+    margin-top: 1100px;
+}
+
+.image13 {
+    position: absolute;
+    width: 540px;
+    margin-top: 1330px;
+}
+
+h1 {
+    position: absolute;
+    margin-top: 1700px;
+}
+
+h2 {
+    position: absolute;
+    margin-top: 1730px;
+    width: 540px;
+    font-size: 15px;
+}
+
+Body {
+    animation: transitionIn 1.5s;
+}
+
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+    }
+}

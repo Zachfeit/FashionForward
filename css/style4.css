@@ -1,0 +1,142 @@
+.container1 {
+    width: 1080px;
+    height: 9500x;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.headerimg {
+    width: 1080px;
+    height: auto;
+    position:fixe;
+}
+
+body {
+    background: rgba(251, 0, 255, 0.404);
+}
+
+.image1 {
+    width: 600px;
+    margin-left: 480px;
+}
+
+p {
+    position: absolute;
+    width: 480px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    font-size: 27px;
+    text-align: cente;
+    margin-top: -1400px;
+}
+
+.image2 {
+    position: absolute;
+    width: 480px;
+    margin-left: -1080px;
+    margin-top: 800px;
+}
+
+.image3 {
+    position: absolute;
+    width: 540px;
+    margin-left: -1080px;
+    margin-top: 1800px;
+}
+
+.image4 {
+    position: absolute;
+    width: 540px;
+    margin-left: 540px;
+    margin-top: 150px;
+}
+
+.image5 {
+    position: absolute;
+    width: 480px;
+    margin-top: 100px;
+}
+
+p.class1 {
+    position: absolute;
+    width: 540px;
+    margin-top: 320px;
+}
+
+.image6 {
+    position: absolute;
+    width: 540px;
+    margin-top: 950px;
+}
+
+.image7 {
+    position: absolute;
+    width: 350px;
+    margin-top: 1000px;
+    margin-left: -50px;
+}
+
+.image8 {
+    position: absolute;
+    width: 390px;
+    margin-top: 1020px;
+    margin-left: 220px;
+}
+
+.image9 {
+    position: absolute;
+    width: 300px;
+    margin-top: 1350px;
+    margin-left: -50px;
+}
+
+.image10 {
+    position: absolute;
+    width: 400px;
+    margin-top: 1335px;
+    margin-left: 210px;
+}
+
+Body {
+    animation: transitionIn 1.5s;
+}
+
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+    }
+}
+
+.image11{
+    width: 480px;
+    position: absolute;
+    margin-left: -1080px;
+    margin-top: 900px;
+}
+
+.image12 {
+    position: absolute;
+    width: 480px;
+    margin-left: -1080px;
+    margin-top: 1000px;
+}
+
+.image13 {
+    position: absolute;
+    width: 480px;
+    margin-left: -1080px;
+    margin-top: 1270px;
+}
+
+h1 {
+    position: absolute;
+    margin-top: 1920px;
+}
+
+h2 {
+    position: absolute;
+    margin-top: 1950px;
+    width: 540px;
+    font-size: 15px;
+}

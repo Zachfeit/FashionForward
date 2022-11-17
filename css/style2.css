@@ -1,0 +1,140 @@
+
+.headerimg {
+    width: 1080px;
+    height: auto;
+    position:fixe;
+}
+
+.container1 {
+    width: 1080px;
+    height: 9500x;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background: rgba(132, 0, 255, 0.288);
+}
+
+p {
+    position:absolute;
+    width: 540px;
+    font-family: 'Franklin Gothic Medium';
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 300px;
+}
+Body {
+    animation: transitionIn 1.5s;
+}
+
+@keyframes transitionIn {
+    from {
+        opacity: 0;
+    }
+}
+
+.image2 {
+    position: absolute;
+    width: 580px;
+    margin-top: 220px;
+    margin-left: 500px;
+}
+
+.stussydiv {
+    margin-top: -100px;
+}
+
+.image3 {
+    margin-top: 200px;
+    width: 400px;
+}
+
+p.class1 {
+    position: absolute;
+    width: 590px;
+    margin-left: 490px;
+    margin-top: 350px;
+    text-align: right;
+    font-size: 26px;
+}
+
+.image1 {
+    width: 540px;
+    margin-left: 540px;
+}
+
+.image4 {
+    position: absolute;
+    width: 500px;
+    margin-top: 780px;
+}
+
+.image5 {
+    width: 300px;
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 420px;   
+}
+
+.image6 {
+    position: absolute;
+    width: 580px;
+    margin-left: 100px;
+    margin-top: 775px;
+}
+
+.image7 {
+    position: absolute;
+    width: 385px;
+    margin-left: 55px;
+    margin-top: 1150px;
+}
+.image8 {
+    position: absolute;
+    width: 350px;
+    margin-left: 380px;
+    margin-top: 1230px;
+}
+
+.image9 {
+    position: absolute;
+    width: 540px;
+    margin-top: 230px;
+}
+
+.image10 {
+    position: absolute;
+    width: 540px;
+    margin-top: 850px;
+}
+
+.image11 {
+    position: absolute;
+    width: 540px;
+    margin-top: 970px;
+}
+
+.image12 {
+    position: absolute;
+    width: 540px;
+    margin-top: 1425px;
+}
+
+.image13 {
+    position: absolute;
+    width: 540px;
+    margin-top: 1650px;
+}
+
+h1 {
+    position: absolute;
+    margin-top: 180px;
+}
+
+h2 {
+    position: absolute;
+    margin-top: 210px;
+    width: 740px;
+    font-size: 15px;
+}
